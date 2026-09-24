@@ -93,12 +93,12 @@ Devido ao fato de ainda não estar confirmada a possibilidade de aplicação da 
 | Cenários a serem apresentados | Elaboração | Todos | 01/10 | Em andamento |
 | Confirmação com a escola | Confirmar se a oficina poderá ser realizada | Fernando | 28/09 | Em andamento |
 | Materiais | Teste dos materiais produzidos e ajustes finais | Todos | 07/10 | Não iniciada |
+| Transporte e Seguro | Entrar em contato com a comissão de graduação | Nícolas | 26/09 | Em andamento |
 
 ### Dependências Críticas
 
 - Confirmação do local.
 - Teste dos cenários antes da aplicação.
-
 
 ## Materiais e Recursos
 
@@ -110,7 +110,7 @@ Devido ao fato de ainda não estar confirmada a possibilidade de aplicação da 
 ### Recursos para a Aplicação
 
 - Material impresso colorido com as situações problema;
-- Cartilhas do CERTBR;
+- Cartilhas do CERT.br;
 - Projetor, caso a breve apresentação *em slides* seja utilizada.
 
 ### Testes Necessários
@@ -142,6 +142,7 @@ Inicialmente, as respostas fornecidas e comportamentos observados durante a din�
 | --- | --- | --- |
 | Vocabulário adequado | Uso excessivo de termos técnicos pode desanimar o público | Adequar o vocabulário e mudar a dinâmica da atividade dado a percepção do estado de ânimo do público |
 | Duração insuficiente | Cenários precisarem de mais tempo que o projetado | Utilizar menos cenários e adequar no momento pode ser a solução |
+| Problemas no transporte | Chegar atrasado | Pedir um UBER ou qualquer outro meio rápido de transporte para contornar a situação |
 
 
 ## Referências
