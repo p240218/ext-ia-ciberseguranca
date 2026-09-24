@@ -122,8 +122,8 @@ Devido ao fato de ainda não estar confirmada a possibilidade de aplicação da 
 
 ### Recursos para a Aplicação
 
-- Material impresso colorido com as situações problema;
-- Cartilhas do CERT.br;
+- Material impresso colorido com as situações problema.
+- Cartilhas do CERT.br.
 - Projetor, caso a breve apresentação *em slides* seja utilizada.
 
 ### Testes Necessários
