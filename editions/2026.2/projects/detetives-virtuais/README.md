@@ -53,6 +53,19 @@ O objetivo geral da atividade é conscientizar as crianças sobre a importância
 
 ## Experiência
 
+Planejamos fazer uma breve apresentação dos integrantes do grupo e nos apresentaremos como estudantes da UNICAMP que estudam sobre cibersegurança. Em seguida, faremos algumas perguntas de engajamento, por exemplo:
+ 1. Quem aqui usa celular?
+ 2. Vocês tem contas em rede social?
+ 3. Alguém já ouviu falar sobre cibersegurança?
+
+Depois disso, anunciaremos que estamos em busca de novos detetives virtuais e, para isso, vamos apresentar algumas situações do uso cotidiano de internet e convidar a crianças a analisá-las como detetives. Nesse sentido, convidaremos as crianças a se reunirem em grupos de 3 a 4 integrantes. As situações problemas serão apresentadas em um papel colorido entregue para cada grupo. Por enquanto os problemas a serem propostos serão:
+
+ 1. Após uma partida em um jogo virtual, um outro jogador envia uma mensagem dizendo que se divertiu muito e que gostaria de brincar no mundo real.
+ 2. Será apresentada uma propaganda interativa, muito comum em aplicativos gratuitos. Esse tipo de anúncio geralmente contém links escondidos que redirecionam a pessoa para sites maliciosos ou promessas de recompensas falsas que incentivam a pessoa compartilhar informações pessoais.
+ 3. A situação será uma solicitação de amizade vinda de uma conta desconhecida no instagram. O perfil falso  
+
+
+
 A atividade tem o objetivo de aplicar um jogo interativo onde o público alvo irá analisar situações problema e terá que decidir qual abordagem é mais segura. Para um resultado mais efetivo, pensamos em utilizar recursos lúdicos, para além do jogo, que podem ser dinâmica com cores e imagens, além de temas relacionados a cenários encontrados pelas crianças na internet, mas com uma discussão que seja mais adequada ao vocabulário delas. Portanto, situações problema e dinâmicas originais estão sendo confeccionadas pelo grupo.
 
 Com a realização da atividade, as crianças, ao se envolverem na busca por soluções para os problemas apresentados, estarão vivenciando situações que simulam possíveis cenários reais e escolhendo as decisões que acreditam ser as mais adequadas. Assim, ao final da apresentação dos cenários e soluções, será discutido, com base nas respostas obtidas, o que é o ideal a se fazer e quais ações poderiam significar um risco maior. Consequentemente, as decisões tomadas podem ser avaliadas em conjunto e por quem as tomou, adquirindo uma informação de como reagir melhor e aprender para evitar desastres futuros. Além disso, a própria atividade de buscar soluções e avaliar o cenário apresentado instiga o questionamento e reflexão por parte das crianças.
