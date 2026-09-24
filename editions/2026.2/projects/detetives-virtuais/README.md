@@ -17,7 +17,7 @@ Vamos apresentar situações problema, como prints de um site com palavras de ri
 
 ## Problema e Contexto
 
-A maior parte das crianças brasileiras inicia prematuramente o uso de redes sociais entre 8 e 11 anos [2] e [3]. Apesar de não terem maturidade para navegar com responsabilidade no meio digital, nessa idade elas, geralmente, já são alfabetizadas, portanto, conseguem interagir com outros usuários, além de serem capazes de executar atividades motoras mais sofisticadas, o que pode ser explorado por malfeitores. Essas características tornam a criança um agente não experiente nos meios digitais, sendo vulnerável ao uso inseguro da internet. Além disso, é importante ressaltar que muitas dessas crianças fazem o uso não supervisionado e que crianças cada vez mais jovens fazem uso intensivo do celular[2]. Dessa forma, fenômenos como as “crianças de ipad”, que precisam sempre de um estímulo virtual como jogos ou vídeos para conseguirem se comportar, estão se tornando mais comuns. Por outro lado, infelizmente, esse comportamento por vezes é um reflexo dos hábitos dos próprios pais ou pelo menos é incentivado pelos responsáveis que permitem o uso desregrado dessas tecnologias. Por isso, acreditamos que é necessário conscientizar as próprias crianças acerca dos riscos do mundo virtual.
+A maior parte das crianças brasileiras inicia prematuramente o uso de redes sociais entre 8 e 11 anos [1], [2] e [3]. Apesar de não terem maturidade para navegar com responsabilidade no meio digital, nessa idade elas, geralmente, já são alfabetizadas, portanto, conseguem interagir com outros usuários, além de serem capazes de executar atividades motoras mais sofisticadas, o que pode ser explorado por malfeitores. Essas características tornam a criança um agente não experiente nos meios digitais, sendo vulnerável ao uso inseguro da internet. Além disso, é importante ressaltar que muitas dessas crianças fazem o uso não supervisionado e que crianças cada vez mais jovens fazem uso intensivo do celular [2]. Dessa forma, fenômenos como as “crianças de ipad”, que precisam sempre de um estímulo virtual como jogos ou vídeos para conseguirem se comportar, estão se tornando mais comuns. Por outro lado, infelizmente, esse comportamento por vezes é um reflexo dos hábitos dos próprios pais ou pelo menos é incentivado pelos responsáveis que permitem o uso desregrado dessas tecnologias. Por isso, acreditamos que é necessário conscientizar as próprias crianças acerca dos riscos do mundo virtual.
 
 Com base na introdução apresentada, identificamos que o tema impacta diretamente a segurança das futuras gerações, que têm que se conscientizar cada vez mais cedo, tendo, assim, alta relevância social. Consequentemente, a chance de trabalhá-lo como uma extensão à universidade é uma oportunidade de contribuir com a sociedade diretamente. Além disso, estar em contato com tal grupo possibilita conhecer suas demandas e as situações específicas às quais está submetido, que posteriormente poderão ser relatadas e discutidas no meio acadêmico.
 
@@ -36,24 +36,24 @@ Em trocas entre o grupo, foram mencionadas, de forma mais direta e recorrente, a
 Entretanto, o grupo gostaria de verificar as seguintes hipóteses durante a aplicação da atividade:
 
   * As crianças são capazes de alterar o seu comportamento baseado em alguma explicação prévia?
-  * O público é capaz de identificar os golpes da *internet*? Se sim, qual a razão entre o risco e a recompensa?
+  * O público é capaz de identificar situações de risco na *internet*? Se sim, esse comportamento está condicionado ao momento da aplicação da atividade?
 
 ## Objetivos
 
 ### Objetivo Geral
 
-Em poucas palavras, o objetivo geral da atividade é conscientizar as crianças sobre a importância de ter cuidado ao utilizar redes sociais por meio de atividades lúdicas e interativas.
+O objetivo geral da atividade é conscientizar as crianças sobre a importância de ter cuidado ao utilizar redes sociais por meio de atividades lúdicas e interativas.
 
 ### Objetivos Específicos
-a) Incentivar as crianças a sempre **recorrerem aos adultos** quando sentirem dúvida.
-b) Informar sobre os perigos existentes nas redes e ensiná-las a **identificar temas de risco** por meio de palavras chave e links suspeitos.
-c) Instigá-las a sempre **desconfiar do conteúdo** que têm acesso.
-d) Verificar se o perfil idealizado na seção **Público** é próximo à realidade
-e) Verificar as hipóteses formuladas na seção **Público** para, caso necessário, projetar mudanças para a próxima aplicação da atividade.
+- a) Incentivar as crianças a sempre **recorrerem aos adultos** quando sentirem dúvida.
+- b) Informar sobre os perigos existentes nas redes e ensiná-las a **identificar temas de risco** por meio de palavras chave e links suspeitos.
+- c) Instigá-las a sempre **desconfiar do conteúdo** que têm acesso.
+- d) Verificar se o perfil idealizado na seção **Público** é próximo à realidade
+- e) Verificar as hipóteses formuladas na seção **Público** para, caso necessário, projetar mudanças para a próxima aplicação da atividade.
 
 ## Experiência
 
-A atividade a ser proposta tem o objetivo de aplicar um jogo interativo onde o público alvo irá tomar decisões que impactam no andamento da atividade. Para um resultado mais efetivo, pensamos em utilizar recursos lúdicos, para além do jogo, que podem ser dinâmica com cores e imagens, além de temas relacionados a cenários encontrados pelas crianças na internet, mas com uma discussão que seja mais adequada ao vocabulário delas. Portanto, situações problema e dinâmicas originais estão sendo confeccionadas pelo grupo.
+A atividade tem o objetivo de aplicar um jogo interativo onde o público alvo irá analisar situações problema e terá que decidir qual abordagem é mais segura. Para um resultado mais efetivo, pensamos em utilizar recursos lúdicos, para além do jogo, que podem ser dinâmica com cores e imagens, além de temas relacionados a cenários encontrados pelas crianças na internet, mas com uma discussão que seja mais adequada ao vocabulário delas. Portanto, situações problema e dinâmicas originais estão sendo confeccionadas pelo grupo.
 
 Com a realização da atividade, as crianças, ao se envolverem na busca por soluções para os problemas apresentados, estarão vivenciando situações que simulam possíveis cenários reais e escolhendo as decisões que acreditam ser as mais adequadas. Assim, ao final da apresentação dos cenários e soluções, será discutido, com base nas respostas obtidas, o que é o ideal a se fazer e quais ações poderiam significar um risco maior. Consequentemente, as decisões tomadas podem ser avaliadas em conjunto e por quem as tomou, adquirindo uma informação de como reagir melhor e aprender para evitar desastres futuros. Além disso, a própria atividade de buscar soluções e avaliar o cenário apresentado instiga o questionamento e reflexão por parte das crianças.
 
@@ -109,7 +109,8 @@ Devido ao fato de ainda não estar confirmada a possibilidade de aplicação da 
 
 ### Recursos para a Aplicação
 
-- Material impresso colorido.
+- Material impresso colorido com as situações problema;
+- Cartilhas do CERTBR;
 - Projetor, caso a breve apresentação *em slides* seja utilizada.
 
 ### Testes Necessários
@@ -139,7 +140,7 @@ Inicialmente, as respostas fornecidas e comportamentos observados durante a din�
 
 | Risco / Desafio | Possível impacto | Estratégia |
 | --- | --- | --- |
-| Vocabulário adequado | uso excessivo de termos técnicos pode desanimar o público | Adequar o vocabulário e mudar a dinÇamica da atividade dado a percepção do estado de ânimo do público |
+| Vocabulário adequado | Uso excessivo de termos técnicos pode desanimar o público | Adequar o vocabulário e mudar a dinâmica da atividade dado a percepção do estado de ânimo do público |
 | Duração insuficiente | Cenários precisarem de mais tempo que o projetado | Utilizar menos cenários e adequar no momento pode ser a solução |
 
 
