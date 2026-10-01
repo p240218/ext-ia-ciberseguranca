@@ -49,6 +49,7 @@ Espera-se que as atividades possam levar os alunos para uma reflexão madura qua
 | Exposição teórica | 10~min | Os slides da mini-aula é apresentado no projetor, e integrantes da oficina fazem uma breve exposição de ML | Pode interagir e perguntar | Projetor, internet |
 | Dinâmica Kahoot | 5~7 min | Um jogo interativo de perguntas e respostas sobre ML | Os alunos acessam QR Code para participar do Kahoot e participa, respondendo as questões sobre ML | Internet, projetor e dispositivos conectados à internet para cada aluno participar |
 | Dinâmica Machine Learning | 20~min | Atividade central de aprendizado de máquinas| Alunos se reunem em grupos para participar da dinâmica | Projetor, laptops com acesso à internet |
+| Campeonato de ML | 30~min | Atividade central de aprendizado de máquinas| Grupos disputam entre si para treinar o modelo de IA com maior acurácia | Projetor, laptops com acesso à internet |
 
 **Duração total estimada:** 15 a 20 minutos no máximo.
 
