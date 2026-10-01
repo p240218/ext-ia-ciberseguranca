@@ -42,6 +42,23 @@ As atividades propostas da oficina busca uma abordagem extraordinária, envolven
 
 Espera-se que as atividades possam levar os alunos para uma reflexão madura quanto a forma como as Inteligências Artificiais são treinadas, considerando tendências e parcialidade que podem ocorrer no Aprendizado de Máquinas, bem como na finalidade em que a ferramenta é aplicada. 
 
+### Roteiro da Atividade
+| Etapa | Duração | Atividade | Participação do público | Recursos |
+| --- | ---: | --- | --- | --- |
+| `<Etapa 1>` | 5~min | Os membros da equipe se apresentam e fornecem detalhes do roteiro das atividades | Escuta as propostas | Projetor e internet |
+| Exposição teórica | 10~min | Os slides da mini-aula é apresentado no projetor, e integrantes da oficina fazem uma breve exposição de ML | Pode interagir e perguntar | Projetor, internet |
+| Dinâmica Kahoot | 5~7 min | Um jogo interativo de perguntas e respostas sobre ML | Os alunos acessam QR Code para participar do Kahoot e participa, respondendo as questões sobre ML | Internet, projetor e dispositivos conectados à internet para cada aluno participar |
+
+**Duração total estimada:** 15 a 20 minutos no máximo.
+
+## Planejamento da Primeira Aplicação
+
+### Articulação para a Primeira Aplicação
+
+**Público previsto:** Alunos do Ensino Médio.
+**Contexto de aplicação:** Escola pública ou privada.
+**Número estimado de participantes:** 20 a 25 alunos aproximadamente.
+**Período previsto:** a definir
 ## Viabilidade e Planejamento Inicial
 
 ### Contexto de Realização
