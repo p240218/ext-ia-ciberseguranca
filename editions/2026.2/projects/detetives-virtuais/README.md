@@ -15,7 +15,7 @@
 
 ## Proposta
 
-Vamos apresentar situações problema, como prints de um site com palavras de risco, links com promessas suspeitas ou caixas de diálogo impróprias e incentivar as crianças a investigarem o conteúdo, duvidando da veracidade dos fatos. Além disso, pensamos em desenvolver um mecanismo de recompensa quando as crianças acertarem, isto é, ao identificar e evitar os problemas. Essencialmente, a oficina será trabalhada em uma dinâmica de grupo, em que as crianças têm que decidir juntas qual abordagem é a correta. Ainda em discussão, a oficina deve ser dividida em 2 partes, onde, na primeira, as respostas serão dadas sem uma discussão ampla e, na segunda, haverá uma discussão coletiva seguida de novos cenários a serem avaliados para testar se o que foi discutido está sendo usado como base. Assim, o tema principal é Cibersegurança no contexto das crianças, utilizando a temática de detetives e mistérios, que acreditamos ser de grande interesse para o público alvo.
+Vamos apresentar situações problema, como prints de um site com palavras de risco, links com promessas suspeitas ou caixas de diálogo impróprias e incentivar as crianças a investigarem o conteúdo, duvidando da veracidade dos fatos.  A oficina ocorre como uma dinâmica de grupo, em que as crianças têm que decidir juntas qual abordagem é a correta. Ainda em discussão, a oficina deve ser dividida em 2 partes, onde, na primeira, as respostas serão dadas sem uma discussão ampla e, na segunda, haverá uma discussão coletiva seguida de novos cenários a serem avaliados para testar se o que foi discutido está sendo usado como base. Assim, o tema principal é Cibersegurança no contexto das crianças, utilizando a temática de detetives e mistérios, que acreditamos ser de grande interesse para o público alvo.
 
 ## Problema e Contexto
 
@@ -126,15 +126,14 @@ No que diz respeito ao transporte, a cidade de Mogi Guaçu se localiza a aproxim
 
 ## Plano de Desenvolvimento
 
-Abaixo segue algumas das atribuições que consideramos nas últimas reuniões:
+Abaixo segue algumas das atribuições que consideramos nas últimas reuniões referente à segunda aplicação da atividade:
 
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
 | --- | --- | --- | --- | --- |
-| Confirmação com a escola | Confirmar se a oficina poderá ser realizada | Fernando | 28/09 | Confirmado |
-| Transporte e Seguro | Entrar em contato com a comissão de graduação | Nícolas | 26/09 | Confirmado |
-| Cenários a serem apresentados | Elaboração | Todos | 18/10 | Em conclusão|
-| Brindes e certificados | Confecção| Todos | 18/10 | Em andamento|
-| Materiais | Teste dos materiais produzidos e ajustes finais | Todos | 18/10 | Em conclusão|
+| Confirmação com a escola | Confirmar se a oficina poderá ser realizada | Fernando | 05/11 | Confirmado |
+| Transporte e Seguro | Entrar em contato com a comissão de graduação | Nícolas | 12/11 | Mensagem enviada |
+| Questionário para pais | Elaboração | Todos |12/11 | Em conclusão|
+| Brindes e certificados | Confeccionar novos brindes| Todos | 12/11 | Em andamento|
 
 Ainda resta completar alguns ajustes nas imagens referentes às situações problemas e imprimi-las em papel A4 colorido preferencialmente plastificado. Estamos esperando cerca de 30 crianças, o que seria necessário pelo menos 10 exemplares de cada situação problema. Pretendemos apresentar ao menos 5 cenários, o que totalizaram 50 impressões coloridas.
 
@@ -177,6 +176,18 @@ Os modelos ainda não finalizados das situações problema podem ser encontrados
 **Ainda estamos em busca de maneiras eficientes de fazer esses testes.**
 
 ## Avaliação
+
+O foco principal da atividade é incentivar as crianças a pensarem criticamente no meio digital, sempre investigando as situações que encontram no cotidiano. Além disso, buscamos conscientizá-las a respeito da necessidade de valorizar e proteger as suas informações pessoais.
+
+A fim de verificar o cumprimento desses objetivos, a ideia do grupo foi avaliar o público atendido pela atividade em três momentos:
+
+1º avaliação: Logo após nos apresentarmos fazemos algumas perguntas diagnósticas sobre o conhecimento e uso de internet das crianças, conforme as perguntas registradas na seção de Experiência. Como forma de registro, pediremos para as crianças levantarem a mão como resposta no caso afirmativo e um dos integrantes do grupo registrará a quantidade de respostas e comentários relevantes.
+
+2º avaliação: Após a primeira rodada de situações problema, vamos registrar os principais tópicos discutidos em cada grupo para cada situação problema.
+Em seguida vamos fazer uma breve discussão com todos os grupos sobre os pontos em comum que eles identificaram nas situações, incentivando a formação de senso crítico e identificação dos problemas. ( As situações tem em comum o risco associado ao compartilhamento indevido ou furto de informações pessoais.)
+
+3º avaliação: Durante a segunda rodada avaliamos as novas respostas das crianças, com foco em identificar mudanças na percepção dos riscos associados a cada problema. (Queremos que as justificativas passem a ser apoiadas em argumentos e não apenas em proibições impostas pelos pais.) Além disso, ao final da dinâmica, entregaremos o formulário impresso para as preofessoras que estiverem na sala avaliarem a dinâmica e um breve formulário de satisfação para as crianças. Os formulário podem ser acessados em **LINK FORMULÁRIO**.
+
 
 ### Indicadores de Sucesso
 
