@@ -51,12 +51,12 @@ O objetivo geral da atividade é ensinar as crianças a identificarem os padrõe
 
 ### Objetivos Específicos
 
-*1. Incentivar as crianças a sempre **recorrerem aos adultos** quando sentirem dúvida.
-*2. Fazer com que as crianças **valorizem as suas informações pessoais** e priorizem a sua privacidade.
-*3. Conscientizar sobre os perigos existentes nas redes e ensiná-las a **identificar temas de risco** por meio de palavras chave.
-*4. Instigá-las a sempre **desconfiar do conteúdo** que têm acesso.
-*5. Verificar se o perfil formulado na seção **Público** é compatível com a realidade.
-*6. Verificar a veracidade das hipóteses formuladas na seção **Público** e adequar o projeto de acordo com as experiências obtidas nas aplicações da atividade.
+1. Incentivar as crianças a sempre **recorrerem aos adultos** quando sentirem dúvida.
+2. Fazer com que as crianças **valorizem as suas informações pessoais** e priorizem a sua privacidade.
+3. Conscientizar sobre os perigos existentes nas redes e ensiná-las a **identificar temas de risco** por meio de palavras chave.
+4. Instigá-las a sempre **desconfiar do conteúdo** que têm acesso.
+5. Verificar se o perfil formulado na seção **Público** é compatível com a realidade.
+6. Verificar a veracidade das hipóteses formuladas na seção **Público** e adequar o projeto de acordo com as experiências obtidas nas aplicações da atividade.
 
 ## Experiência
 
