@@ -218,7 +218,7 @@ Além disso, ao expressarem suas opiniões acerca do tema, elas compartilharam m
 Por fim, agradecemos a participação e parabenizamos os nossos mais novos detetives virtuais. Em seguida, entregamos os kits brinde, que agradaram muito as crianças.
 
 
-###Evidências e Feedbacks
+### Evidências e Feedbacks
 
 As evidências coletadas derivam da observação direta do comportamento dos grupos e das justificativas fornecidas durante as rodadas de análise. Durante a primeira parte, as crianças identificaram riscos explícitos (como pedidos diretos de dados pessoais em jogos), mas apresentaram dúvidas em situações envolvendo propagandas com recompensas falsas. Na segunda parte, após as orientações intermediárias, o público passou a verbalizar a necessidade de recorrer a um adulto com maior frequência.
 Assim, as principais evidências de aprendizado por parte dos alunos, como descrito na subseção anterior, são as adequações das respostas e justificativas dadas, assim como a não ocorrência de relatos como o da senha na segunda parte mesmo com uma atuação mais ativa dos monitores com questionamentos, o que também pode ser devido ao menor tempo disponível ou uma certa inibição baseada no momento de discussão. De qualquer forma, percebemos uma melhora na qualidade das respostas dadas pelas crianças, o que, valida a importância dos momentos de discussão sem mediação seguido do momento de discussão e análise geral. 
