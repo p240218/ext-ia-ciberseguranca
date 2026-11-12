@@ -160,9 +160,8 @@ A fim de verificar o cumprimento desses objetivos, a ideia do grupo foi avaliar 
 | Objetivo | Indicador / Evidência |
 | --- | --- |
 | Incentivá-las a recorrerem a adultos quando em dúvida.| Baseado nas respostas das crianças às situações problemas, é possível verificar o grau de autonomia nas redes e a confiança nos responsáveis. |
-| Garantir que o público é capaz de identificar situações cenários de risco | 
-Verificar se as respostas iniciais e finais estão de acordo com as recomendações de 'boas práticas', além da percepção, por parte dos integrantes do grupo, de situações reais relatadas pelas crianças. |
-| Gerar senso crítico ao analisar conteúdos na internet. | Análise da forma como formulam suas respostas para os problemas. Os membros do grupo devem estar atentos às respostas para captar comentários relevantes que possam esclarecer a percepção das crianças sobre os riscos. |
+| Garantir que o público é capaz de identificar situações cenários de risco | Verificar se as respostas iniciais e finais estão de acordo com as recomendações de 'boas práticas', além da percepção, por parte dos integrantes do grupo, de situações reais relatadas pelas crianças.|
+| Gerar senso crítico ao analisar conteúdos na internet. | Análise da forma como formulam suas respostas para os problemas. Os membros do grupo devem estar atentos às respostas para captar comentários relevantes que possam esclarecer a percepção das crianças sobre os riscos.|
 | Validar, ou não, o perfil formulado na seção **Público** | Análise posterior à aplicação baseada na experiência obtida durante e discussão entre os membros do grupo acerca de nuances percebidas. |
 | Verificar o que foi adquirido de conhecimento pelos participantes | Analisando a adequação das respostas ou possíveis mudanças dos termos utilizados entre o primeiro momento de análise das situações e o segundo, é possível identificar o impacto do momento de discussão geral no conhecimento das crianças sobre o assunto. |
 
