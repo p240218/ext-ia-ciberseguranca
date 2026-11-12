@@ -122,9 +122,7 @@ Para os brindes, já compramos pirulitos e precisamos imprimir os certificados.
 
 ## Materiais e Recursos
 
-As situações problema utilizadas em ambas as aplicações podem ser encontradas em:
-
-https://github.com/teaching-FEEC/ext-ia-ciberseguranca/tree/1b142b1cc214788e6353e83c9e9fc9f6c35059ec/editions/2026.2/projects/detetives-virtuais/Imagens](https://github.com/teaching-FEEC/ext-ia-ciberseguranca/tree/1b142b1cc214788e6353e83c9e9fc9f6c35059ec/editions/2026.2/projects/detetives-virtuais/Imagens) *LINK COM ERRO*
+As situações problema utilizadas em ambas as aplicações podem ser encontradas na pasta de nome 'imagens' nesta mesma página do Github.
 
 ### Materiais a Desenvolver
 
